@@ -1,0 +1,53 @@
+Privacy Policy
+
+Last Updated On: 17 August 2023
+
+This privacy policy describes how we collect, use, and share your data when you use our game Run Bun Bun Run.
+
+Bonkdoon Studio does not collect any of your data, but we use the Google AdMob SDK which does collect data. 
+The following sections in this privacy policy detail the data that the Google AdMob SDK collects when you use Run Bun Bun Run.
+
+---------------------------------------
+Contact Information:
+---------------------------------------
+
+If you have any questions or concerns please contact us at: bonkdoonstudio@gmail.com
+
+---------------------------------------
+Data Collection by Google AdMob SDK:
+---------------------------------------
+
+The Google AdMob SDK collects the following data when you use Run Bun Bun Run:
+
+- IP Address: Collects device's IP address, which may be used to estimate the general location of a device.
+
+- User product interactions: Collects user product interactions and interaction information, including app launch, taps, and video views.
+
+- Diagnostic information: Collects information related to the performance of your app and the SDK, including crash logs, app launch time, hang rate, and energy usage.
+
+- Device and Account identifiers: Collects Android advertising (ad) ID, app set ID, and, if applicable, other identifiers related to signed-in accounts on the device.
+
+The data above is collected in order to serve ads to you, improve the performance of our game, 
+diagnose problems with our game, and comply with legal requirements.
+
+The Google AdMob SDK shares the data it collects with Google and third-party 
+partners, such as advertising networks and analytics companies.
+
+Third parties may be placing cookies as a result of serving ads
+
+---------------------------------------
+Data Security by Google AdMob SDK:
+---------------------------------------
+
+All of the user data collected by the Google Mobile Ads SDK is encrypted in 
+transit using the Transport Layer Security (TLS) protocol.
+
+---------------------------------------
+Controlling your Data Collected by Google AdMob SDK:
+---------------------------------------
+
+You can control your data collected by AdMob by:
+
+- Opting out of ad targeting.
+- Deleting your advertising ID.
+- Requesting that your data be deleted.
