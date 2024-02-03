@@ -17,15 +17,8 @@ If you have any questions or concerns please contact us at: bonkdoonstudio@gmail
 Data Collection by Google AdMob SDK:
 ---------------------------------------
 
-The Google AdMob SDK collects the following data when you use Run Bun Bun Run:
-
-- IP Address: Collects device's IP address, which may be used to estimate the general location of a device.
-
-- User product interactions: Collects user product interactions and interaction information, including app launch, taps, and video views.
-
-- Diagnostic information: Collects information related to the performance of your app and the SDK, including crash logs, app launch time, hang rate, and energy usage.
-
-- Device and Account identifiers: Collects Android advertising (ad) ID, app set ID, and, if applicable, other identifiers related to signed-in accounts on the device.
+The Google AdMob SDK collects the following data when you use Run Bun Bun Run. The game collects some information about your device, like your device identifier, access times, pages viewed, and IP address.
+The game uses AdMob for serving ads, which might collect additional non-personal information like device identifiers and app usage data.
 
 The data above is collected in order to serve ads to you, improve the performance of our game, 
 diagnose problems with our game, and comply with legal requirements.
